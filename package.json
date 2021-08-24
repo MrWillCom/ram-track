@@ -1,0 +1,7 @@
+{
+    "name": "ram-track",
+    "description": "A RAM tracker in terminal.",
+    "scripts": {
+        "start": "node ./main.js"
+    }
+}
